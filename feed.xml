@@ -15,9 +15,9 @@
     <itunes:author>NotebookLM Auto</itunes:author>
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=1400&amp;h=1400&amp;fit=crop&amp;q=80" />
+    <itunes:image href="https://ryotanemottuan-ux.github.io/daily-audio-feed/cover.jpg" />
     <image>
-      <url>https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=1400&amp;h=1400&amp;fit=crop&amp;q=80</url>
+      <url>https://ryotanemottuan-ux.github.io/daily-audio-feed/cover.jpg</url>
       <title>NotebookLM Daily Overview</title>
       <link>https://pub-c97a2d315c8e404bbf9e547e3187e5e5.r2.dev/feed.xml</link>
     </image>
