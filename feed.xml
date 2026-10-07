@@ -7,7 +7,7 @@
     <description>NotebookLMによって毎日自動生成される音声概要です。</description>
     <language>ja</language>
     <copyright>Copyright (C) 2026 NotebookLM Auto</copyright>
-    <lastBuildDate>Tue, 06 Oct 2026 21:29:28 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 21:10:24 +0900</lastBuildDate>
     <generator>NotebookLM Auto Podcast Generator</generator>
     <atom:link href="https://ryotanemottuan-ux.github.io/daily-audio-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:type>episodic</itunes:type>
@@ -21,6 +21,45 @@
       <title>NotebookLM Daily Overview</title>
       <link>https://pub-c97a2d315c8e404bbf9e547e3187e5e5.r2.dev/feed.xml</link>
     </image>
+    <item>
+      <title>[10/07] ネットカルチャー・SNSトレンド</title>
+      <description>トピック: ネットカルチャー・SNSトレンド に関する毎日のNotebookLM自動生成レポートです。(ニュース検索: (SNSトレンド OR ネット文化 OR ガジェット OR サイバーセキュリティ))</description>
+      <pubDate>Wed, 07 Oct 2026 21:10:23 +0900</pubDate>
+      <enclosure url="https://pub-c97a2d315c8e404bbf9e547e3187e5e5.r2.dev/DailyAudio_20261007_3.mp3" length="8500497" type="audio/mpeg" />
+      <guid isPermaLink="false">426423be-c0bc-4ac0-bc35-ecbe2a568fbe</guid>
+      <itunes:duration>00:17:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>NotebookLM Auto</itunes:author>
+      <itunes:summary>トピック: ネットカルチャー・SNSトレンド に関する毎日のNotebookLM自動生成レポートです。(ニュース検索: (SNSトレンド OR ネット文化 OR ガジェット OR サイバーセキュリティ))</itunes:summary>
+      <link>https://pub-c97a2d315c8e404bbf9e547e3187e5e5.r2.dev/feed.xml</link>
+    </item>
+    <item>
+      <title>[10/07] 日本の最新法改正と重要裁判</title>
+      <description>トピック: 日本の最新法改正と重要裁判 に関する毎日のNotebookLM自動生成レポートです。(ニュース検索: (法改正 OR 裁判 OR 判決) 日本)</description>
+      <pubDate>Wed, 07 Oct 2026 21:10:00 +0900</pubDate>
+      <enclosure url="https://pub-c97a2d315c8e404bbf9e547e3187e5e5.r2.dev/DailyAudio_20261007_2.mp3" length="5369565" type="audio/mpeg" />
+      <guid isPermaLink="false">90fd6fb4-66b9-4f7d-a3c7-f6840cbd7b67</guid>
+      <itunes:duration>00:11:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>NotebookLM Auto</itunes:author>
+      <itunes:summary>トピック: 日本の最新法改正と重要裁判 に関する毎日のNotebookLM自動生成レポートです。(ニュース検索: (法改正 OR 裁判 OR 判決) 日本)</itunes:summary>
+      <link>https://pub-c97a2d315c8e404bbf9e547e3187e5e5.r2.dev/feed.xml</link>
+    </item>
+    <item>
+      <title>[10/07] 最新性犯罪事例</title>
+      <description>トピック: 最新性犯罪事例 に関する毎日のNotebookLM自動生成レポートです。(ニュース検索: 性犯罪 (事件 OR 判例 OR 逮捕))</description>
+      <pubDate>Wed, 07 Oct 2026 21:09:46 +0900</pubDate>
+      <enclosure url="https://pub-c97a2d315c8e404bbf9e547e3187e5e5.r2.dev/DailyAudio_20261007_1.mp3" length="7055613" type="audio/mpeg" />
+      <guid isPermaLink="false">09879dc2-8bc9-4001-9206-fe7a04806b2c</guid>
+      <itunes:duration>00:14:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>NotebookLM Auto</itunes:author>
+      <itunes:summary>トピック: 最新性犯罪事例 に関する毎日のNotebookLM自動生成レポートです。(ニュース検索: 性犯罪 (事件 OR 判例 OR 逮捕))</itunes:summary>
+      <link>https://pub-c97a2d315c8e404bbf9e547e3187e5e5.r2.dev/feed.xml</link>
+    </item>
     <item>
       <title>[10/06] 旬の食材・食文化・料理トレンド</title>
       <description>トピック: 旬の食材・食文化・料理トレンド に関する毎日のNotebookLM自動生成レポートです。(ニュース検索: (旬の食材 OR 料理トレンド OR グルメニュース))</description>
