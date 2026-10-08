@@ -7,7 +7,7 @@
     <description>NotebookLMによって毎日自動生成される音声概要です。</description>
     <language>ja</language>
     <copyright>Copyright (C) 2026 NotebookLM Auto</copyright>
-    <lastBuildDate>Wed, 07 Oct 2026 21:10:24 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 21:10:57 +0900</lastBuildDate>
     <generator>NotebookLM Auto Podcast Generator</generator>
     <atom:link href="https://ryotanemottuan-ux.github.io/daily-audio-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:type>episodic</itunes:type>
@@ -21,6 +21,32 @@
       <title>NotebookLM Daily Overview</title>
       <link>https://pub-c97a2d315c8e404bbf9e547e3187e5e5.r2.dev/feed.xml</link>
     </image>
+    <item>
+      <title>[10/08] 日本の経済・ビジネス動向</title>
+      <description>トピック: 日本の経済・ビジネス動向 に関する毎日のNotebookLM自動生成レポートです。(ニュース検索: (日本経済 OR 株価 OR ビジネストレンド))</description>
+      <pubDate>Thu, 08 Oct 2026 21:10:56 +0900</pubDate>
+      <enclosure url="https://pub-c97a2d315c8e404bbf9e547e3187e5e5.r2.dev/DailyAudio_20261008_6.mp3" length="8177415" type="audio/mpeg" />
+      <guid isPermaLink="false">60d3ec73-f718-4fc0-8144-f44edde7a151</guid>
+      <itunes:duration>00:17:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>NotebookLM Auto</itunes:author>
+      <itunes:summary>トピック: 日本の経済・ビジネス動向 に関する毎日のNotebookLM自動生成レポートです。(ニュース検索: (日本経済 OR 株価 OR ビジネストレンド))</itunes:summary>
+      <link>https://pub-c97a2d315c8e404bbf9e547e3187e5e5.r2.dev/feed.xml</link>
+    </item>
+    <item>
+      <title>[10/08] 世界の自然災害と気候変動</title>
+      <description>トピック: 世界の自然災害と気候変動 に関する毎日のNotebookLM自動生成レポートです。(ニュース検索: (日本の自然災害 OR 日本の異常気象 OR 気候変動))</description>
+      <pubDate>Thu, 08 Oct 2026 21:10:33 +0900</pubDate>
+      <enclosure url="https://pub-c97a2d315c8e404bbf9e547e3187e5e5.r2.dev/DailyAudio_20261008_4.mp3" length="6732948" type="audio/mpeg" />
+      <guid isPermaLink="false">74d2f1fa-7115-4d53-b156-567ebac51c2c</guid>
+      <itunes:duration>00:14:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>NotebookLM Auto</itunes:author>
+      <itunes:summary>トピック: 世界の自然災害と気候変動 に関する毎日のNotebookLM自動生成レポートです。(ニュース検索: (日本の自然災害 OR 日本の異常気象 OR 気候変動))</itunes:summary>
+      <link>https://pub-c97a2d315c8e404bbf9e547e3187e5e5.r2.dev/feed.xml</link>
+    </item>
     <item>
       <title>[10/07] ネットカルチャー・SNSトレンド</title>
       <description>トピック: ネットカルチャー・SNSトレンド に関する毎日のNotebookLM自動生成レポートです。(ニュース検索: (SNSトレンド OR ネット文化 OR ガジェット OR サイバーセキュリティ))</description>
