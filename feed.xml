@@ -7,7 +7,7 @@
     <description>NotebookLMによって毎日自動生成される音声概要です。</description>
     <language>ja</language>
     <copyright>Copyright (C) 2026 NotebookLM Auto</copyright>
-    <lastBuildDate>Wed, 14 Oct 2026 21:28:21 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 22:00:59 +0900</lastBuildDate>
     <generator>NotebookLM Auto Podcast Generator</generator>
     <atom:link href="https://ryotanemottuan-ux.github.io/daily-audio-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:type>episodic</itunes:type>
@@ -21,6 +21,45 @@
       <title>NotebookLM Daily Overview</title>
       <link>https://pub-c97a2d315c8e404bbf9e547e3187e5e5.r2.dev/feed.xml</link>
     </image>
+    <item>
+      <title>[10/15] 旬の食材・食文化・料理トレンド</title>
+      <description>トピック: 旬の食材・食文化・料理トレンド に関する毎日のNotebookLM自動生成レポートです。(ニュース検索: (旬の食材 OR 料理トレンド OR グルメニュース))</description>
+      <pubDate>Thu, 15 Oct 2026 22:00:57 +0900</pubDate>
+      <enclosure url="https://pub-c97a2d315c8e404bbf9e547e3187e5e5.r2.dev/DailyAudio_20261015_9.mp3" length="6034538" type="audio/mpeg" />
+      <guid isPermaLink="false">52018ba1-f7a4-4868-8340-3e9fe76a5aeb</guid>
+      <itunes:duration>00:12:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>NotebookLM Auto</itunes:author>
+      <itunes:summary>トピック: 旬の食材・食文化・料理トレンド に関する毎日のNotebookLM自動生成レポートです。(ニュース検索: (旬の食材 OR 料理トレンド OR グルメニュース))</itunes:summary>
+      <link>https://pub-c97a2d315c8e404bbf9e547e3187e5e5.r2.dev/feed.xml</link>
+    </item>
+    <item>
+      <title>[10/15] 国内政治と国際情勢</title>
+      <description>トピック: 国内政治と国際情勢 に関する毎日のNotebookLM自動生成レポートです。(ニュース検索: (日本政治 OR 地政学 OR 国際情勢))</description>
+      <pubDate>Thu, 15 Oct 2026 22:00:18 +0900</pubDate>
+      <enclosure url="https://pub-c97a2d315c8e404bbf9e547e3187e5e5.r2.dev/DailyAudio_20261015_8.mp3" length="6628458" type="audio/mpeg" />
+      <guid isPermaLink="false">9b8e797d-b4f9-4ed2-8e44-180133dd5e0d</guid>
+      <itunes:duration>00:13:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>NotebookLM Auto</itunes:author>
+      <itunes:summary>トピック: 国内政治と国際情勢 に関する毎日のNotebookLM自動生成レポートです。(ニュース検索: (日本政治 OR 地政学 OR 国際情勢))</itunes:summary>
+      <link>https://pub-c97a2d315c8e404bbf9e547e3187e5e5.r2.dev/feed.xml</link>
+    </item>
+    <item>
+      <title>[10/15] 世界のAI技術最新トレンド</title>
+      <description>トピック: 世界のAI技術最新トレンド に関する毎日のNotebookLM自動生成レポートです。(ニュース検索: (生成AI OR LLM OR ChatGPT OR AIトレンド))</description>
+      <pubDate>Thu, 15 Oct 2026 22:00:39 +0900</pubDate>
+      <enclosure url="https://pub-c97a2d315c8e404bbf9e547e3187e5e5.r2.dev/DailyAudio_20261015_7.mp3" length="7270026" type="audio/mpeg" />
+      <guid isPermaLink="false">a754d54a-eea4-4b87-9f37-db7bfb91dc1a</guid>
+      <itunes:duration>00:15:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>NotebookLM Auto</itunes:author>
+      <itunes:summary>トピック: 世界のAI技術最新トレンド に関する毎日のNotebookLM自動生成レポートです。(ニュース検索: (生成AI OR LLM OR ChatGPT OR AIトレンド))</itunes:summary>
+      <link>https://pub-c97a2d315c8e404bbf9e547e3187e5e5.r2.dev/feed.xml</link>
+    </item>
     <item>
       <title>[10/14] 日本の経済・ビジネス動向</title>
       <description>トピック: 日本の経済・ビジネス動向 に関する毎日のNotebookLM自動生成レポートです。(ニュース検索: (日本経済 OR 株価 OR ビジネストレンド))</description>
